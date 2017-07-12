@@ -1,0 +1,1 @@
+动作文件下载工具默为认MotionInstall.exe，目前只支持PL2303串口工具
