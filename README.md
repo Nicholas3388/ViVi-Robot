@@ -46,14 +46,24 @@ After the robot is connected successfully, you can go to the controlling/program
 
 Some useful tools can be downloaded here: https://pan.baidu.com/s/1hsmpobi
 
+## Demonstrate Video
+
+The following video shows how robot works:
+
+https://youtu.be/Ei7dzrWdOCQ
+
+https://www.youtube.com/watch?v=xlrA9Pon3Uw&t=28s
+
+
 -------------------------------------------------
 
-# ViVi机器人（中文介绍）
+# ViVi Robot（中文介绍）
 
 ViVi机器人是深圳四博智联科技有限公司基于ESP8266控制器开发的智能机器人。可实现手机或平板电脑
 通过WiFi控制机器人（App支持Android、iOS设备）
 
 公司网站: www.doit.am
+
 淘宝购买: https://szdoit.taobao.com/
 
 # 快速开始
@@ -81,3 +91,11 @@ WiFi连接上后，打开App在搜索页面中按“连接机器人”按钮，即可让App连上机器人。然后
 ## 工具
 
 一些编辑工具可在此下载： https://pan.baidu.com/s/1hsmpobi
+
+## 视频展示
+
+下面视频展示了如何使用该机器人
+
+https://youtu.be/Ei7dzrWdOCQ
+
+https://www.youtube.com/watch?v=xlrA9Pon3Uw&t=28s
