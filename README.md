@@ -37,7 +37,7 @@ Download ViVi Robot App for iOS from the App Store:
 The Robot works as AP. When ViVi Robot power up, wait for about 5 seconds, you can connect 
 your phone with the Robot AP by changing WiFi SSID to the Robot AP, whose SSID shown as "ViVi-xxxx".
 
-![github](https://github.com/Nicholas3388/ViVi-Robot/raw/master/images/vivi5.jpg "Connect AP")
+![github](https://github.com/Nicholas3388/ViVi-Robot/raw/master/images/vivi5.png "Connect AP")
 
 Default password for Robot AP is `123456798xyz`.
 
