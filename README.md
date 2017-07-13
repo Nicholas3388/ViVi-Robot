@@ -1,7 +1,14 @@
 # ViVi Robot
 
-ViVi Robot is a smart WiFi Robot, developed by DOIT China, in Shenzhen. The Robot, with ESP8266 inside, can be controlled by phone/tablet 
-via WiFi. 
+ViVi Robot is a smart WiFi Robot, developed by DOIT China, in Shenzhen. 
+
+Features:
+
+* With ESP8266 inside, support STA+AP mode, 4MB flash size, utilizing SPIFFS
+* Controllable with WiFi
+* Provide App for both Android and iOS devices
+* Lowcost
+* Open source (App excluded), fit for Geeker
 
 ![github](http://img2.ph.126.net/6PjAxo8EBllIFDA8hPij0w==/6632280527025998765.jpg "ViVi Robot")
 
@@ -59,8 +66,14 @@ https://www.youtube.com/watch?v=xlrA9Pon3Uw&t=28s
 
 # ViVi Robot（中文介绍）
 
-ViVi机器人是深圳四博智联科技有限公司基于ESP8266控制器开发的智能机器人。可实现手机或平板电脑
-通过WiFi控制机器人（App支持Android、iOS设备）
+ViVi机器人是深圳四博智联科技有限公司基于ESP8266控制器开发的智能机器人。
+
+特点：
+* 使用目前流行的ESP8266作为控制器，支持STA+AP模式，4MB的非易失性存储空间，使用SPIFFS作为文件系统
+* 通过WiFi控制
+* 提供App，支持Android、iOS设备
+* 低成本高性价比
+* 部分开源（APP除外），适合高校学生，科研项目使用，也适合极客
 
 公司网站: www.doit.am
 
