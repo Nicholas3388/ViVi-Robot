@@ -10,7 +10,7 @@ Features:
 * Lowcost
 * Open source (App excluded), fit for Geeker
 
-![github](http://img2.ph.126.net/6PjAxo8EBllIFDA8hPij0w==/6632280527025998765.jpg "ViVi Robot")
+![github](https://github.com/Nicholas3388/ViVi-Robot/raw/master/images/vivi4.jpg "ViVi Robot")
 
 Homepage: www.doit.am
 
@@ -37,7 +37,7 @@ Download ViVi Robot App for iOS from the App Store:
 The Robot works as AP. When ViVi Robot power up, wait for about 5 seconds, you can connect 
 your phone with the Robot AP by changing WiFi SSID to the Robot AP, whose SSID shown as "ViVi-xxxx".
 
-![github](http://wx1.sinaimg.cn/mw690/999babe3gy1fhhash90guj207n0dit9q.jpg "Connect AP")
+![github](https://github.com/Nicholas3388/ViVi-Robot/raw/master/images/vivi5.jpg "Connect AP")
 
 Default password for Robot AP is `123456798xyz`.
 
@@ -45,7 +45,7 @@ Default password for Robot AP is `123456798xyz`.
 
 When your phone connect to the Robot AP successfully, run the App to connect with the robot by clicking the ¡°connect robot¡± button on App.
 
-![github](http://img2.ph.126.net/IC4gmi3bAGLrhi7KZrrS4w==/6632526817630624883.png "Connect Robot")
+![github](https://github.com/Nicholas3388/ViVi-Robot/raw/master/images/vivi6.png "Connect Robot")
 
 After the robot is connected successfully, you can go to the controlling/programming page on App to interact with the robot.
 
