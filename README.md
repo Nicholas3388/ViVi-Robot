@@ -32,6 +32,8 @@ Download ViVi Robot App for iOS from the App Store:
 
 * https://itunes.apple.com/us/app/vivi-robot/id1255421040?l=zh&ls=1&mt=8
 
+`Note: Please update your iOS system to the latest version, when using iOS App`
+
 ## 2. Connect your phone to Robot’s AP
 
 The Robot works as AP. When ViVi Robot power up, wait for about 5 seconds, you can connect 
@@ -91,6 +93,8 @@ App支持安卓和iOS设备，从下面链接下载安卓App客户端：
 App Store中搜索ViVi Robot可以找到iOS客户端，或者从下面链接跳转安装：
 
 * https://itunes.apple.com/us/app/vivi-robot/id1255421040?l=zh&ls=1&mt=8
+
+`注意：当使用iOS版本的App时，请将你的iOS系统更新至最新版本`
 
 ## 2. 连接机器人
 
