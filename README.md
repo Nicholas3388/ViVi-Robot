@@ -98,7 +98,9 @@ App Store中搜索ViVi Robot可以找到iOS客户端，或者从下面链接跳转安装：
 
 * https://itunes.apple.com/us/app/vivi-robot/id1255421040?l=zh&ls=1&mt=8
 
-`注意：当使用iOS版本的App时，请将你的iOS系统更新至最新版本`
+`注意：当使用iOS版本的App时，请将你的iOS系统更新至最新版本。对于国行版iPhone手机，在App首次允许时会弹出
+一个提示框，其提示内容为是否允许该App使用无线局域网数据，此时一定要选择允许，切记！！！否则，App无法连接
+机器人！这一权限请求仅针对国行iPhone手机，非国行手机无此弹框。`
 
 更多关于该机器人的资料：
 
