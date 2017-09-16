@@ -4,6 +4,7 @@ ViVi Robot is a smart WiFi Robot, developed by DOIT China, in Shenzhen.
 
 Features:
 
+* Mesh network support, several robots can construct a Mesh network automatically, messages can be broadcast to each robot in the Mesh at the same time!
 * With ESP8266 inside, support STA+AP mode, 4MB flash size, utilizing SPIFFS
 * Controllable with WiFi
 * Provide App for both Android and iOS devices
@@ -17,6 +18,15 @@ Homepage: www.doit.am
 Taobao: https://szdoit.taobao.com/
 
 ![github](https://camo.githubusercontent.com/faf29375e935d49b1f654b5cd355ed3d23ae70c9/68747470733a2f2f6b73722d7567632e696d6769782e6e65742f6173736574732f3031302f3031322f3333332f32653135336266386136663163633537383136343361643864373034663238355f6f726967696e616c2e6769663f773d363830266669743d6d617826763d3134363136363132323826713d393226733d6338663532303031663335336134316234353566326135356233633131323536 "DOIT")
+
+# New Update For ViVi
+
+Big update for ViVi robot, we add Mesh network library for ViVi now. This is a good news for ViVi, since several robots 
+can construct a Mesh network automatically, and then message can be broadcast to each robot in the Mesh at the same time! This is a great
+feature for robot, it means that you can control all robots as well as some of them at the same time. 
+
+The Mesh library is an awesome tool. It is useful in some other cases, for example, you can use Mesh for long distance 
+data transmission. In this case, some nodes are play as relay.
 
 # QUICK START
 
@@ -75,6 +85,7 @@ https://www.youtube.com/watch?v=xlrA9Pon3Uw&t=28s
 ViVi机器人是深圳四博智联科技有限公司基于ESP8266控制器开发的智能机器人。
 
 特点：
+* 支持Mesh自组网功能，多个机器人可以自动组成一个Mesh网络，实现多机器人同时控制
 * 使用目前流行的ESP8266作为控制器，支持STA+AP模式，4MB的非易失性存储空间，使用SPIFFS作为文件系统
 * 通过WiFi控制
 * 提供App，支持Android、iOS设备
@@ -84,6 +95,12 @@ ViVi机器人是深圳四博智联科技有限公司基于ESP8266控制器开发的智能机器人。
 公司网站: www.doit.am
 
 淘宝购买: https://szdoit.taobao.com/
+
+# 重大更新
+
+新版ViVi机器人添加了Mesh自组网功能，多个机器人可以自动组成一个Mesh网络，这是个具有创新性的功能，它实现了多机器人同时控制。
+
+Mesh库是一个很有用的功能库，我们以将其独立成库形式，它以C++编写，可在arduino中调用。可以自行添加自其他工程项目。
 
 # 快速开始
 
