@@ -57,6 +57,9 @@ your phone with the Robot AP by changing WiFi SSID to the Robot AP, whose SSID s
 
 Default password for Robot AP is `123456798xyz`.
 
+If your robot is the latest version, which provides Mesh feature, the SSID will be "vivi_mesh", and the password 
+is `123456789`.
+
 ## 3. Robot Control via App
 
 When your phone connect to the Robot AP successfully, run the App to connect with the robot by clicking the “connect robot” button on App.
@@ -76,6 +79,18 @@ The following video shows how robot works:
 https://youtu.be/Ei7dzrWdOCQ
 
 https://www.youtube.com/watch?v=xlrA9Pon3Uw&t=28s
+
+https://youtu.be/V8vCaDDdtKY
+
+https://youtu.be/xHHrxQfKKok
+
+https://youtu.be/s899ZuJ2h4U
+
+https://youtu.be/vvj3Wj8AONI
+
+https://youtu.be/kGedMDO8iN4
+
+https://youtu.be/orxIr7D_wVc
 
 
 -------------------------------------------------
@@ -128,6 +143,8 @@ App Store中搜索ViVi Robot可以找到iOS客户端，或者从下面链接跳转安装：
 机器人以AP模式启动。当机器人上电后，过大约5秒后会生成WiFi热点。在手机中可以搜索到类似"ViVi-xxxx"
 的SSID，将手机连接至该热点。连接密码为`12345678xyz`。
 
+如果是支持Mesh功能的机器人，其热点名叫"vivi_mesh"，密码是`123456789`。
+
 ## 3. App连接
 
 WiFi连接上后，打开App在搜索页面中按“连接机器人”按钮，即可让App连上机器人。然后可以进入控制、编程页面操作机器人。
@@ -143,3 +160,15 @@ WiFi连接上后，打开App在搜索页面中按“连接机器人”按钮，即可让App连上机器人。然后
 https://youtu.be/Ei7dzrWdOCQ
 
 https://www.youtube.com/watch?v=xlrA9Pon3Uw&t=28s
+
+https://youtu.be/V8vCaDDdtKY
+
+https://youtu.be/xHHrxQfKKok
+
+https://youtu.be/s899ZuJ2h4U
+
+https://youtu.be/vvj3Wj8AONI
+
+https://youtu.be/kGedMDO8iN4
+
+https://youtu.be/orxIr7D_wVc
